@@ -13,7 +13,7 @@ No primeiro trabalho, os alunos indicarão que linguagem de programação eles e
 
 Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem desejada para apresentação abaixo, e fazer um **pull request** para este projeto. Em seguida, após prepararem a apresentação, devem inserir um link onde esta possa ser vista.
 
-* Thyago Barcelos - Scratch - Link do Trabalho
+* Thyago Barcelos - Scratch - https://youtu.be/2ovRvyRuOMY
 * Julio Carvalho - Ruby
 * Guilhermo Hounie - Typescript
 * Allan Martins - Elixir
